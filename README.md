@@ -8,3 +8,7 @@ Check if a seven-digit postal code (e.g. 1093000) matches a list of postal codes
 Returns this JSONP:
 
 `is_it_illegal({'postal_code' : 1093000, 'is_settlement' : TRUE, 'occupying_power' : 'Israel', 'information_source' : 'European Commission', 'further_information' : 'https://taxation-customs.ec.europa.eu/eu-israel-technical-arrangement_en'})`
+
+# related links
+
+https://www.icj-cij.org/case/186 - ICJ: Legal Consequences arising from the Policies and Practices of Israel in the Occupied Palestinian Territory, including East Jerusalem
