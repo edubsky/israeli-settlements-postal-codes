@@ -3,7 +3,7 @@ Postal codes for Israeli settlements and an API to easily check if you're dealin
 
 # demo
 Check if a seven-digit postal code (e.g. 1093000) matches a list of postal codes for Israeli settlements:: 
-[https://wwwdot.org/settlements/](https://wwwdot.org/settlements/api.php?postal_code=1093000&callback=is_it_illegal)
+`https://wwwdot.org/settlements/api.php?postal_code=1093000&callback=is_it_illegal`
 
 Returns this JSONP:
 
